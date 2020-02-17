@@ -1,5 +1,5 @@
 # Tapable
-
+[go to zh](https://github.com/Lneedy/tapable/blob/master/README.zh.md)
 The tapable package expose many Hook classes, which can be used to create hooks for plugins.
 
 ``` javascript
